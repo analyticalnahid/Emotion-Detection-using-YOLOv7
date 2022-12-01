@@ -1,0 +1,1 @@
+!python main.py --weights /content/drive/MyDrive/newprojects/emotion/weights/yolo.pt --conf 0.5 --source /content/drive/MyDrive/newprojects/emotion/testdata/**/*.jpeg  --no-trace --save-txt
